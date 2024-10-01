@@ -14,7 +14,7 @@ Between 0°C to 100°C
 3. Hot: 40.1°C to 100°C
 
 # Credits : 
-1. OS - This is the readme for the Python for Win32 (pywin32) extensions, which provides access to many of the Windows APIs from Python.
+1. OS - provides a way of interacting with the operating system. It includes functions to manipulate directories, handle file paths, execute system commands, and access environment variables, among other things.
 2. SYS - To access to some variables and functions that interact with the Python interpreter.
 3. Pillow - The Python Imaging Library adds image processing capabilities to your Python interpreter.
 4. Tkinter - A binary module that contains the low-level interface to Tcl/Tk.
