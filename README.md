@@ -13,7 +13,7 @@ Between 0°C to 100°C
 2. Warm: 10.1°C to 30°C
 3. Hot: 40.1°C to 100°C
 
-# Credits : 
+# Import Credits : 
 1. OS - provides a way of interacting with the operating system. It includes functions to manipulate directories, handle file paths, execute system commands, and access environment variables, among other things.
 2. SYS - To access to some variables and functions that interact with the Python interpreter.
 3. Pillow - The Python Imaging Library adds image processing capabilities to your Python interpreter.
