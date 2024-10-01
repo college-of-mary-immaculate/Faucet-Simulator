@@ -5,10 +5,10 @@
 # What
 This faucet simulator is a digital simulator that use a fuzzy logic to determine the cold, warm, and hot percentage of the water and a more advanced faucet in fast foods restaurants and it was made to facilitate the mixing of the temperature in the water that he/she will use.
 
-#Valid Input:
+# Valid Input:
 Between 0°C to 100°C
 
-#Temperature:
+# Temperature:
 1. Cold: 0°C to 10°C
 2. Warm: 10.1°C to 30°C
 3. Hot: 40.1°C to 100°C
